@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: SmartDota (Desktop WebApp)
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
@@ -13,11 +13,11 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+- 
+  name: Website Link
+  url: "https://smartdota.com/"
+url-link: "https://smartdota.com/"
+url_code: "https://smartdota.com/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
