@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Masters of Data Science
-    institution: University of British Columbia
+    institution: The University of British Columbia
     year : 2020 - 2021
   - course: BSc in Civil Engineering
     institution: Iran University of science and Technology 
@@ -61,5 +61,5 @@ email: ""
 highlight_name: false
 ---
 
-Kevin is a Master of Data Science candidate at the University of British Columbia. His passion for Data Science and Software Engineering drives him to create different software and tools that people can use. He has experience working with various tools and programming languages Such as python, SQL, R, C++, Flutter. 
+Kevin is a Masters of Data Science candidate at the University of British Columbia. His passion for Data Science and Software Engineering drives him to create different software and tools that people can use. He has experience working with various tools and programming languages Such as python, SQL, R, C++, Flutter. 
 
